@@ -8,8 +8,8 @@ Thematisch gegliederter Lernkurs in deutscher Sprache.
 ![language](https://img.shields.io/badge/language-DE-blue?style=flat-square)
 ![level](https://img.shields.io/badge/level-school-blue?style=flat-square)
 ![subject](https://img.shields.io/badge/subject-Mathematics-blue?style=flat-square)
-![modules](https://img.shields.io/badge/modules-2-blue?style=flat-square)
-![lessons](https://img.shields.io/badge/lessons-40-blue?style=flat-square)
+![modules](https://img.shields.io/badge/modules-8-blue?style=flat-square)
+![lessons](https://img.shields.io/badge/lessons-52-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/monowlith-com/learning-courses-school-mathematics-de?style=flat-square)
 
@@ -21,7 +21,7 @@ Thematisch gegliederter Lernkurs in deutscher Sprache.
 
 ## Überblick
 
-Dieser Kurs umfasst 40 Lektionen in 2 Modulen. Die Materialien können der Reihe nach gelesen oder gezielt zum Nachschlagen, Wiederholen und Vertiefen verwendet werden. Sie ersetzen keinen Unterricht, kein Studium und keinen anerkannten Abschluss.
+Dieser Kurs umfasst 52 Lektionen in 8 Modulen. Die Materialien können der Reihe nach gelesen oder gezielt zum Nachschlagen, Wiederholen und Vertiefen verwendet werden. Sie ersetzen keinen Unterricht, kein Studium und keinen anerkannten Abschluss.
 
 ## Inhalte
 

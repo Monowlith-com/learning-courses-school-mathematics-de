@@ -1,10 +1,10 @@
 ---
 document_id: "school_mathematics_de:studienweg"
-series_id: "school_mathematics_de:M1-L1"
-series_part: 41
-document_version: "0.1.0"
+series_id: "school_mathematics_de:_index"
+series_part: 54
+document_version: "0.1.1"
 created: "2026-11-12"
-updated: "2026-11-18"
+updated: "2026-11-24"
 title: "Studienweg"
 author: "Stephan Kühn"
 document_type: "Begleitmaterial"
@@ -25,55 +25,108 @@ license: "CC BY-NC-SA 4.0 International"
 
 Didaktischer Lernweg für Sekundarstufe I und Oberstufe/Abitur. Die Gliederung ersetzt keine verbindlichen schulischen Lehrpläne.
 
-## Schulkurs – M1 – Sekundarstufe I (23 Lektionen) {#S1}
+Die folgenden Lernwege ordnen die 52 Lektionen in vier Bereiche ein: Sekundarstufe I (Kern und Wahl/Vertiefung) und Sekundarstufe II (Abiturkern und Wahl/erhöhtes Niveau). Die Zuordnung ist eine didaktische Orientierung, keine länderübergreifend verbindliche Pflichtliste. Die Themenblöcke sind Lernwege, keine neuen technischen Module. Innerhalb der Lernwege beachte das in der jeweiligen Lektion verlinkte Vorwissen; insbesondere M1-L8 vor M3-L2. Die ursprünglichen Module M1 und M2 bleiben als stabile Adressen erhalten. Die fünf Wahlmodule M4–M8 können nach den jeweiligen Voraussetzungen unabhängig gewählt werden.
 
-  ID                                          Lektion                                                         Einordnung
-  ------------------------------------------- --------------------------------------------------------------- -----------------
-  [M1-L1](../M1-L1.md)                                       Zahlenarten, negative Zahlen, Variablen und erste Gleichungen   Sekundarstufe I
-  [M1-L2](../M1-L2.md)                                       Brüche, Prozentrechnung, Verhältnisse und Proportionalität      Sekundarstufe I
-  [M1-L3](../M1-L3.md)                                       Rechengesetze, Klammern, Terme und Äquivalenzumformungen        Sekundarstufe I
-  [M1-L4](../M1-L4.md)                                       Koordinatensysteme, Zuordnungen, Tabellen und Diagramme         Sekundarstufe I
-  [M1-L5](../M1-L5.md)                                       Geometrische Grundformen und Größen                             Sekundarstufe I
-  [M1-L6](../M1-L6.md)                                       Statistik: Häufigkeit, Mittelwert, Median und Streuung          Sekundarstufe I
-  [M1-L7](../M1-L7.md)                                       Potenzen, Zehnerpotenzen und Wurzeln                            Sekundarstufe I
-  [M1-L8](../M1-L8.md)                                       Lineare Funktionen: Steigung und Achsenabschnitt                Sekundarstufe I
-  [M1-L9](../M1-L9.md)                                       Lineare Gleichungssysteme und Lösungsverfahren                  Sekundarstufe I
-  [M1-L10](../M1-L10.md)                                       Satz des Pythagoras, Abstände und Längen                        Sekundarstufe I
-  [M1-L11](../M1-L11.md)                                       Ähnlichkeit, Strahlensätze und Maßstab                          Sekundarstufe I
-  [M1-L12](../M1-L12.md)                                       Kombinatorik und einfache Wahrscheinlichkeiten                  Sekundarstufe I
-  [M1-L13](../M1-L13.md)                                       Quadratische Funktionen und Gleichungen                         Sekundarstufe I
-  [M1-L14](../M1-L14.md)                                       Irrationale und reelle Zahlen, Näherungen                       Sekundarstufe I
-  [M1-L15](../M1-L15.md)                                       Kreis, Kreisbogen und geometrische Körper                       Sekundarstufe I
-  [M1-L16](../M1-L16.md)                                       Trigonometrische Grundbegriffe: Sinus, Kosinus und Tangens      Sekundarstufe I
-  [M1-L17](../M1-L17.md)                                       Wachstum, Prozentmodelle und Zinseszins                         Sekundarstufe I
-  [M1-L18](../M1-L18.md)                                       Funktionen: Definitionsbereich, Transformation und Umkehrung    Sekundarstufe I
-  [M1-L19](../M1-L19.md)                                       Potenz-, Wurzel-, Exponentialfunktionen und Logarithmen         Sekundarstufe I
-  [M1-L20](../M1-L20.md)                                       Trigonometrie am Einheitskreis und periodische Vorgänge         Sekundarstufe I
-  [M1-L21](../M1-L21.md)                                       Räumliche Geometrie, Koordinaten und erste Vektoren             Sekundarstufe I
-  [M1-L22](../M1-L22.md)                                       Bedingte Wahrscheinlichkeit, Unabhängigkeit und Modellkritik    Sekundarstufe I
-  [M1-L23](../M1-L23.md)                                       Regelmäßige Vielecke und die fünf platonischen Körper           Sekundarstufe I
+## Sekundarstufe I: Kern und Vertiefung {#S1}
 
-## Schulkurs – M2 – Oberstufe / Abitur (17 Lektionen) {#S2}
+### Sek I – Kern: Zahlen und Algebra
 
-  ID                                          Lektion                                                                  Einordnung
-  ------------------------------------------- ------------------------------------------------------------------------ --------------------
-  [M2-L1](../M2-L1.md)                                       Funktionsklassen in der Analysis                                         Oberstufe / Abitur
-  [M2-L2](../M2-L2.md)                                       Grenzwerte, Limes und Stetigkeit                                         Oberstufe / Abitur
-  [M2-L3](../M2-L3.md)                                       Ableitung als momentane Änderungsrate                                    Oberstufe / Abitur
-  [M2-L4](../M2-L4.md)                                       Ableitungsregeln und Funktionsverknüpfungen                              Oberstufe / Abitur
-  [M2-L5](../M2-L5.md)                                       Kurvendiskussion und geometrische Eigenschaften                          Oberstufe / Abitur
-  [M2-L6](../M2-L6.md)                                       Optimierung mit Ableitungen                                              Oberstufe / Abitur
-  [M2-L7](../M2-L7.md)                                       Stammfunktionen und Integralzeichen                                      Oberstufe / Abitur
-  [M2-L8](../M2-L8.md)                                       Bestimmte Integrale und Flächenbilanz                                    Oberstufe / Abitur
-  [M2-L9](../M2-L9.md)                                       Hauptsatz der Differential- und Integralrechnung, Wachstum und Bestand   Oberstufe / Abitur
-  [M2-L10](../M2-L10.md)                                       Vertiefte Analysis und ausgewählte Leistungskurs-Bausteine               Oberstufe / Abitur
-  [M2-L11](../M2-L11.md)                                       Vektoren, Skalarprodukt und Winkel                                       Oberstufe / Abitur
-  [M2-L12](../M2-L12.md)                                       Geraden und Ebenen in Parameterform                                      Oberstufe / Abitur
-  [M2-L13](../M2-L13.md)                                       Abstände, Lagebeziehungen und Gleichungssysteme                          Oberstufe / Abitur
-  [M2-L14](../M2-L14.md)                                       Kreuzprodukt, Determinanten und räumliche Rotation                       Oberstufe / Abitur
-  [M2-L15](../M2-L15.md)                                       Zufall, bedingte Wahrscheinlichkeit und Binomialverteilung               Oberstufe / Abitur
-  [M2-L16](../M2-L16.md)                                       Zufallsvariablen, Erwartungswert, Streuung und Tests                     Oberstufe / Abitur
-  [M2-L17](../M2-L17.md)                                       Abiturüberblick: drei Denkweisen, eine mathematische Sprache             Oberstufe / Abitur
+- [M1-L1 – Zahlenarten, negative Zahlen, Variablen und erste Gleichungen](../M1-L1.md)
+- [M1-L2 – Brüche, Prozentrechnung, Verhältnisse und Proportionalität](../M1-L2.md)
+- [M1-L3 – Rechengesetze, Klammern, Terme und Äquivalenzumformungen](../M1-L3.md)
+- [M1-L7 – Potenzen, Zehnerpotenzen und Wurzeln](../M1-L7.md)
+- [M1-L14 – Irrationale und reelle Zahlen, Näherungen](../M1-L14.md)
+- [M3-L1 – Bruchterme und Bruchgleichungen](../M3-L1.md)
+- [M1-L9 – Lineare Gleichungssysteme und Lösungsverfahren](../M1-L9.md)
+- [M1-L13 – Quadratische Funktionen und Gleichungen](../M1-L13.md)
+- [M3-L2 – Lineare Ungleichungen und Intervalle](../M3-L2.md)
+
+### Sek I – Kern: Funktionen und Modellierung
+
+- [M1-L4 – Koordinatensysteme, Zuordnungen, Tabellen und Diagramme](../M1-L4.md)
+- [M1-L8 – Lineare Funktionen: Steigung und Achsenabschnitt](../M1-L8.md)
+- [M1-L17 – Wachstum, Prozentmodelle und Zinseszins](../M1-L17.md)
+- [M1-L18 – Funktionen: Definitionsbereich, Transformation und Umkehrung](../M1-L18.md)
+- [M1-L19 – Potenz-, Wurzel-, Exponentialfunktionen und Logarithmen](../M1-L19.md)
+- [M1-L20 – Trigonometrie am Einheitskreis und periodische Vorgänge](../M1-L20.md)
+
+### Sek I – Kern: Geometrie
+
+- [M1-L5 – Geometrische Grundformen und Größen](../M1-L5.md)
+- [M1-L10 – Satz des Pythagoras, Abstände und Längen](../M1-L10.md)
+- [M1-L11 – Ähnlichkeit, Strahlensätze und Maßstab](../M1-L11.md)
+- [M1-L15 – Kreis, Kreisbogen und geometrische Körper](../M1-L15.md)
+- [M1-L16 – Trigonometrische Grundbegriffe: Sinus, Kosinus und Tangens](../M1-L16.md)
+- [M1-L21 – Räumliche Geometrie, Koordinaten und erste Vektoren](../M1-L21.md)
+
+### Sek I – Kern: Daten und Zufall
+
+- [M1-L6 – Statistik: Häufigkeit, Mittelwert, Median und Streuung](../M1-L6.md)
+- [M1-L12 – Kombinatorik und einfache Wahrscheinlichkeiten](../M1-L12.md)
+- [M1-L22 – Bedingte Wahrscheinlichkeit, Unabhängigkeit und Modellkritik](../M1-L22.md)
+
+### Sek I – Wahl und Vertiefung
+
+- [M1-L23 – Regelmäßige Vielecke und die fünf platonischen Körper](../M1-L23.md)
+
+## Sekundarstufe II: Abiturkern und Wahlvertiefungen {#S2}
+
+### Sek II – Abiturkern: Analysis
+
+- [M2-L1 – Funktionsklassen in der Analysis](../M2-L1.md)
+- [M2-L2 – Grenzwerte, Limes und Stetigkeit](../M2-L2.md)
+- [M2-L3 – Ableitung als momentane Änderungsrate](../M2-L3.md)
+- [M2-L4 – Ableitungsregeln und Funktionsverknüpfungen](../M2-L4.md)
+- [M2-L5 – Kurvendiskussion und geometrische Eigenschaften](../M2-L5.md)
+- [M2-L6 – Optimierung mit Ableitungen](../M2-L6.md)
+- [M2-L7 – Stammfunktionen und Integralzeichen](../M2-L7.md)
+- [M2-L8 – Bestimmte Integrale und Flächenbilanz](../M2-L8.md)
+- [M2-L9 – Hauptsatz der Differential- und Integralrechnung, Wachstum und Bestand](../M2-L9.md)
+
+### Sek II – Abiturkern: Analytische Geometrie
+
+- [M2-L11 – Vektoren, Skalarprodukt und Winkel](../M2-L11.md)
+- [M2-L12 – Geraden und Ebenen in Parameterform](../M2-L12.md)
+- [M2-L13 – Abstände, Lagebeziehungen und Gleichungssysteme](../M2-L13.md)
+
+### Sek II – Abiturkern: Stochastik
+
+- [M2-L15 – Zufall, bedingte Wahrscheinlichkeit und Binomialverteilung](../M2-L15.md)
+- [M2-L16 – Zufallsvariablen, Erwartungswert, Streuung und Tests](../M2-L16.md)
+
+### Sek II – Abiturkern: Abschluss und Transfer
+
+- [M2-L17 – Abiturüberblick: drei Denkweisen, eine mathematische Sprache](../M2-L17.md)
+
+### Sek II – Wahl/erhöht: Analysis und Geometrie
+
+- [M2-L10 – Vertiefte Analysis und ausgewählte Leistungskurs-Bausteine](../M2-L10.md)
+- [M2-L14 – Kreuzprodukt, Determinanten und räumliche Rotation](../M2-L14.md)
+
+### Sek II – Wahl: Komplexe Zahlen
+
+- [M4-L1 – Komplexe Zahlen in der Zahlenebene](../M4-L1.md)
+- [M4-L2 – Polarform, Einheitswurzeln und Iteration](../M4-L2.md)
+
+### Sek II – Wahl: Folgen und Reihen
+
+- [M5-L1 – Folgen, Rekursion und vollständige Induktion](../M5-L1.md)
+- [M5-L2 – Reihen und Taylorpolynome](../M5-L2.md)
+
+### Sek II – Wahl: Matrizen und Übergangsmodelle
+
+- [M6-L1 – Matrizenrechnung und Gauß-Verfahren](../M6-L1.md)
+- [M6-L2 – Übergangsmatrizen und absorbierende Zustände](../M6-L2.md)
+
+### Sek II – Wahl: Elementare Zahlentheorie
+
+- [M7-L1 – Teilbarkeit, Kongruenzen und euklidischer Algorithmus](../M7-L1.md)
+- [M7-L2 – Chinesischer Restsatz, Fermat und RSA als Rechenmodell](../M7-L2.md)
+
+### Sek II – Wahl: Vertiefte Datenanalyse
+
+- [M8-L1 – Skalenniveaus, Regression und Korrelation](../M8-L1.md)
+- [M8-L2 – Unabhängigkeitstest und kritische Datenanalyse](../M8-L2.md)
 
 ## Belegbasis {#S3}
 
