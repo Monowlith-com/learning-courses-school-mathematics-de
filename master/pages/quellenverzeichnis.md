@@ -2,9 +2,9 @@
 document_id: "school_mathematics_de:quellenverzeichnis"
 series_id: "school_mathematics_de:_index"
 series_part: 55
-document_version: "0.1.3"
+document_version: "0.1.4"
 created: "2026-11-12"
-updated: "2026-11-24"
+updated: "2026-11-25"
 title: "Quellenverzeichnis"
 author: "Stephan Kühn"
 document_type: "Begleitmaterial"
@@ -25,10 +25,10 @@ license: "CC BY-NC-SA 4.0 International"
 
 Die externen Quellen sind pro Kurs getrennt. Die Lektionsseiten und die Navigation funktionieren offline; externe Links benötigen Internet.
 
-**Altbestand:** **1 unterschiedliche URLs** in **1 Lektionen** mit externen Webverweisen.
+**Altbestand:** **1 unterschiedliche URL** in **1 Lektion** mit externen Webverweisen.
 
 1.  [M2-L10 – Vertiefte Analysis und ausgewählte Leistungskurs-Bausteine](../M2-L10.md)
-    - [https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/abitur/ps_mathematik_2026_lk.pdf](https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/abitur/ps_mathematik_2026_lk.pdf){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"}
+    - [Berlin – Prüfungsschwerpunkte Mathematik, Abitur 2026, Leistungskurs](https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/abitur/ps_mathematik_2026_lk.pdf){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"} · S10: Berliner Leistungskurs; Prüfungsschwerpunkte, Titelblatt geprüft · Zuletzt abgerufen: 2026-11-22
 
 ## Fachquellen der Erweiterungslektionen {#S1}
 
